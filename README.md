@@ -22,7 +22,7 @@ til - https://github.com/WnslgPsl/til
     * jira 및 confluence 도입
     * Fabric Crashlytics CRASH-FREE 99.73% (약 15% 상승)
     * 안드로이드 API 26 대응
-    * 안드로이드 하위버전 대응 (min taget 16)
+    * 안드로이드 하위버전 대응 (min target 16)
 * [이미지](/images/photocard)
 
 <br>
@@ -80,7 +80,7 @@ til - https://github.com/WnslgPsl/til
     * 첫 상용 프로젝트
     * 리워드 및 인앱결제
     * GCM 사용 및 개발정리
-    * json 형식에 대한 이해
+    * JSON 형식에 대한 이해
 * [이미지](/images/sum)
 
 <br>
